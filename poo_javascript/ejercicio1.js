@@ -10,7 +10,7 @@ function Computador(marca, procesador, ram, precio) {
 }
 
 //aqui empezamos a crear los objetos unicos
-let pc1 = new Computador("wawei", "Intel i7", 16, 3500000);
+let pc1 = new Computador("wawei", "Interdebogota", 16, 3500000);
 const pc2 = new Computador("apull", "AMD Ryzen 5", 8, 2200000);
 const pc3 = new Computador("samsun", "M2", 16, 5800000);
 const pc4 = new Computador ("lenovo", "interdemiami", 6, 4000000 )
